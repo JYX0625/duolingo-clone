@@ -68,8 +68,8 @@ duolingo-clone/
     |-- ui/
     |-- banner.tsx
     |-- feed-wrapper.tsx
+    |-- mobile-bottom-nav.tsx
     |-- mobile-header.tsx
-    |-- mobile-sidebar.tsx
     |-- promo.tsx
     |-- quests.tsx
     |-- sidebar-item.tsx
@@ -103,6 +103,7 @@ duolingo-clone/
   |- environment.d.ts
   |- eslint.config.mjs
   |- next.config.ts
+  |- package-lock.json
   |- package.json
   |- pnpm-lock.yaml
   |- pnpm-workspace.yaml
@@ -274,11 +275,11 @@ Useful resources and dependencies that are used in Lingo.
 - [prettier](https://www.npmjs.com/package/prettier): ^3.9.6
 - [prettier-plugin-tailwindcss](https://www.npmjs.com/package/prettier-plugin-tailwindcss): ^0.8.0
 - [ra-data-simple-rest](https://www.npmjs.com/package/ra-data-simple-rest): ^5.15.3
-- [react](https://www.npmjs.com/package/react): ^19.2.8
-- [react-admin](https://www.npmjs.com/package/react-admin): ^5.15.1
+- [react](https://www.npmjs.com/package/react): ^18.2.8
+- [react-admin](https://www.npmjs.com/package/react-admin): ^5.15.3
 - [react-circular-progressbar](https://www.npmjs.com/package/react-circular-progressbar): ^2.2.0
 - [react-confetti](https://www.npmjs.com/package/react-confetti): ^6.4.0
-- [react-dom](https://www.npmjs.com/package/react-dom): ^19.2.8
+- [react-dom](https://www.npmjs.com/package/react-dom): ^18.2.8
 - [react-use](https://www.npmjs.com/package/react-use): ^17.6.1
 - [sonner](https://www.npmjs.com/package/sonner): ^2.0.8
 - [stripe](https://www.npmjs.com/package/stripe): ^22.5.0
